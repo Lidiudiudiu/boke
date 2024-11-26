@@ -3,16 +3,19 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "李丢丢的学习网站"
-  tagline: My great project tagline
+  name: "丢丢的笔记"
+  text: ""
+  tagline: 既务斯业,专心用功
+  image:
+    src: /icon.png
+    alt: 背景图
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: html css js
+      link: /html
+    - theme: brand
+      text: vue
+      link: /css
 
 features:
   - title: Feature A
